@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914900510447",
+    "project_id": "ecommerce-e344c",
+    "storage_bucket": "ecommerce-e344c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914900510447:android:2f158a906c3b263bd09d1a",
+        "android_client_info": {
+          "package_name": "com.example.expense_manager_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxEfR3j5dG5qooOI8O4efAzzN_mZ2Mz_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
